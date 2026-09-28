@@ -1,16 +1,50 @@
-# React + Vite
+TripCraft – Travel Planning Application
+Example README structure
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. About the project
 
-Currently, two official plugins are available:
+TripCraft is a travel planning application that helps users explore destinations, discover attractions, select places to visit, and organize personalized travel itineraries.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+2. Features
 
-## React Compiler
+Search for travel destinations.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Explore tourist attractions and places.
 
-## Expanding the ESLint configuration
+Select places to include in a trip.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Plan itineraries based on travel dates.
+
+View trip details and manage saved trips.
+
+3. Technologies used
+
+React
+
+Vite
+
+JavaScript
+
+Node.js and Express
+
+External API integrations
+
+4. Installation and setup
+
+git clone https://github.com/adonjoseph345-creator/TripCraft.git
+cd TripCraft
+npm install
+
+5. Run the application
+
+npm run dev
+
+If the backend is required, include its separate setup and run instructions too.
+
+6. Screenshots
+
+Add screenshots of your TripCraft home page, destination search, and itinerary planner to help visitors understand the application.
+
+7. Future improvements
+
+List planned features such as live weather, maps, AI-assisted itineraries, and booking integrations, as applicable.
